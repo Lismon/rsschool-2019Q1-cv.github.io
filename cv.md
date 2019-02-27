@@ -1,16 +1,20 @@
 # Alisiya Manakhava #
 ![Photo of Alisiya Manakhava](https://jobs.tut.by/photo/493307783.jpeg?t=1551340282&h=-JKZobnBpkhPlfWQrKc3wA)
 ## Contacts
+***
 * e-mail: monahova.alisiya@gmail.com
 * phone: +375291313758
 * github: Lismon
 ## Summary
+***
 I got interested in coding and front-end when I realized that making and building some projects, using my brain actively and see visual results inspires me a lot. I began to learn html and css, wrote html pages and it got to my mind that I really enjoy it and ready to go farther! By the way, I've got some experience in team work and ready to develop this skill.
 ## Skills
+***
 1. HTML Basics
 2. CSS Basics
 3. VSCode
 ## Code samples
+***
 ``` <main>
         <section class="hexagon-container">
             <div class="row row-native">
@@ -123,13 +127,14 @@ I got interested in coding and front-end when I realized that making and buildin
 }
 ```
 ## Experience
-
+***
 More than 10 HTML&CSS based projects on _Codecademy_
 
 ## Education
+***
 + **HTML** and **CSS** basiccourses on [*Codecademy*](https://www.codecademy.com/)
 + practicing additional code tricks on [*W3Schools*](https://www.w3schools.com/)
 
 ## Level of English
-
+***
 Upper-intermediate
