@@ -4,7 +4,7 @@
 ***
 * e-mail: monahova.alisiya@gmail.com
 * phone: +375291313758
-* github: Lismon
+* github: [Lismon](https://github.com/Lismon)
 ## Summary
 ***
 I got interested in coding and front-end when I realized that making and building some projects, using my brain actively and see visual results inspires me a lot. I began to learn html and css, wrote html pages and it got to my mind that I really enjoy it and ready to go farther! By the way, I've got some experience in team work and ready to develop this skill.
