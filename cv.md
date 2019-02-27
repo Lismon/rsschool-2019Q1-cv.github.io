@@ -1,4 +1,5 @@
 # Alisiya Manakhava #
+![Photo of Alisiya Manakhava](https://jobs.tut.by/photo/493307783.jpeg?t=1551340282&h=-JKZobnBpkhPlfWQrKc3wA)
 ## Contacts
 * e-mail: monahova.alisiya@gmail.com
 * phone: +375291313758
